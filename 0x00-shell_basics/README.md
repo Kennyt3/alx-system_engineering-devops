@@ -12,3 +12,8 @@
 * __Task 11 script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format__
 * __Task 12 script prints a type of file name iamafile in the /tmp directory which will run with the script__
 * __Task 13 script creates a symbolic link to /bin/ls named__ __ls__ __in the current working directory__ 
+* __Task 14 script copies all the HTML files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory from the current working directory to the parent of the working directory__
+* __Task 15 script moves all files beginning with an uppercase letter to the directory /tmp/u__
+* __Task 16 script deletes all files in the current working directory that end with the character ~__
+* __Task 17 script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory__
+* __Task 18 script lists all the files and directories of the current directory, separated by commas (,)__   
