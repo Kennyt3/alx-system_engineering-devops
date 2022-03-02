@@ -7,3 +7,7 @@
 * Task 6 script creates a directory named my_first_directory in the /tmp/ directory
 * Task 7 script moves the file betty from /tmp/ to /tmp/my_first_directory
 * Task 8 script deletes the file betty in /tmp/my_first_directory
+* Task 9 script deletes the directory my_first_directory that is in the /tmp directory
+* Task 10 script changes the working directory to the previous one
+* Task 11 script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+* 
