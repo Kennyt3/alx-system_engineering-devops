@@ -11,4 +11,4 @@
 * __Task 10 script changes the working directory to the previous one__
 * __Task 11 script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format__
 * __Task 12 script prints a type of file name iamafile in the /tmp directory which will run with the script__
-* __Task 13 script creates a symbolic link to /bin/ls named __ls__ __in the current working directory__ 
+* __Task 13 script creates a symbolic link to /bin/ls named__ __ls__ __in the current working directory__ 
