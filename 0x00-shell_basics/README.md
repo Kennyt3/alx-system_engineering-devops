@@ -1,5 +1,5 @@
-* __Task 0 script prints the absolute path name of the directory
-* Task 1 script displays the contents of the current directory
+* __Task 0 script prints the absolute path name of the directory__
+* __Task 1 script displays the contents of the current directory__
 * Task 2 script changes the working directory to the user's home directory
 * Task 3 script displays current directory contents in a long format
 * Task 4 script displays current directory contents, including hidden files (starting with .)
