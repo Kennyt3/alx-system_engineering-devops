@@ -14,6 +14,6 @@
 * __Task 13 script creates a symbolic link to /bin/ls named__ __ls__ __in the current working directory__ 
 * __Task 14 script copies all the HTML files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory from the current working directory to the parent of the working directory__
 * __Task 15 script moves all files beginning with an uppercase letter to the directory /tmp/u__
-* __Task 16 script deletes all files in the current working directory that end with the character ~__
+* __Task 16 script deletes all files in the current working directory that end with the character__ __~__
 * __Task 17 script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory__
 * __Task 18 script lists all the files and directories of the current directory, separated by commas (,)__   
